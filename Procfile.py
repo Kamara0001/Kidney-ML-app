@@ -4,4 +4,4 @@ Created on Fri Aug 27 21:27:55 2021
 
 @author: Emmanuel Kamara
 """
-
+web: gunicorn app:app
